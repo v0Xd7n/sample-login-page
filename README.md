@@ -26,11 +26,10 @@ You can preview the login page by visiting the live demo here:
 ## 🛠️ Installation
 
 To get started with this project, follow these steps:
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/v0xd7n/sample-login-page.git
-  
+   ```
 2.Navigate to the project directory:
   ```bash
   cd login-page
