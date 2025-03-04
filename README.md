@@ -15,23 +15,24 @@ Welcome to my beautiful login page project! This project is a simple, yet visual
 
 ## 🔥 Demo
 
+Check out the live version of this login page here:  
+[**Live Demo**](https://sample-login-page.vercel.app/)
+
 **Screenshorts**
 
-![image](https://github.com/user-attachments/assets/953b801b-c891-4ffd-b15f-8e314112fa42)
-
-
-You can preview the login page by visiting the live demo here:  
-[Demo Link]([https://sample-login-page.vercel.app])
+You can preview the login page demo here:  
+![Login Page Preview](https://github.com/user-attachments/assets/953b801b-c891-4ffd-b15f-8e314112fa42)
 
 ## 🛠️ Installation
 
 To get started with this project, follow these steps:
+
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/v0xd7n/sample-login-page.git
-   ```
+```
 2.Navigate to the project directory:
-  ```bash
+```bash
   cd login-page
 ```
 3 Open the index.html file in your browser:
@@ -43,7 +44,7 @@ To get started with this project, follow these steps:
 HTML5 - Markup language for structure
 CSS3 - Styling and layout
 Responsive Design - Ensures compatibility across devices
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-# Feel free to contribute or improve the design by opening issues or submitting pull requests. Enjoy coding! 😄
+
+## Feel free to contribute or improve the design by opening issues or submitting pull requests. Enjoy coding! 😄
+instagram :-[**INSTAGRAM**](https://www.instagram.com/rajguru_yadv/)
